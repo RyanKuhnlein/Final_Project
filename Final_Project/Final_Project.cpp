@@ -1,6 +1,6 @@
 // Ryan Kuhnlein
 // Class: ITCS 2530
-// GitHub Repo URL: 
+// GitHub Repo URL: https://github.com/RyanKuhnlein/Final_Project.git
 // Final project: A writing aid tool that helps with idea organization and writer's block.
 // Hobby mentioned in week 00 was writing, oringinally a choose your own adventure idea, turned into a writers aid.
 // AI Tool(s) Used: CoPilot
